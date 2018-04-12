@@ -10,7 +10,7 @@ Users can install LegiTest in one of two ways:
 ## Installing from Pragmatic Workbench 
 
 1. Install Pragmatic Workbench [following these directions](http://help.pragmaticworks.com/docxpress/index.html). If you select a custom install, ensure that the LegiTest option is selected.
-1. After the Workbench installation completes, you will be prompted to install the LegiTest Visual Studio extension. 
+1. After the Workbench installation completes, you will be prompted to install the LegiTest Visual Studio extension. Select the versions of Visual Studio that you want use with the extension.   
 ![LegiTest Extension](images/VSIXInstaller.png)
 A
 
