@@ -210,15 +210,15 @@ To sum up the assertions we want to execute within our tests, they are:
 
 
 
-1.Assert that the source and target tables have the same number of rows after the package executes. (For the test database we have setup, this will be 3 rows.)
+1. Assert that the source and target tables have the same number of rows after the package executes. (For the test database we have setup, this will be 3 rows.)
 
-2.Assert that the data, excluding the LastUpdate column (which doesn’t exist in the source), matches between the source and target.
+2. Assert that the data, excluding the LastUpdate column (which doesn’t exist in the source), matches between the source and target.
 
-3.Assert that the row that should not be changed (Primary Key 1) was not altered, based on the LastUpdate column.
+3. Assert that the row that should not be changed (Primary Key 1) was not altered, based on the LastUpdate column.
 
-4.Assert that the UnchangedRows variable containing the unchanged rows row count has a value of 1 after the package executes.
+4. Assert that the UnchangedRows variable containing the unchanged rows row count has a value of 1 after the package executes.
 
-5.Assert that the package executed in under a set amount of time.
+5. Assert that the package executed in under a set amount of time.
 
 
 
@@ -252,13 +252,13 @@ Summarizing, these are the actions that need to be executed prior to running ind
 
 
 
-1.Reset the target table to a known state.
+1. Reset the target table to a known state.
 
-2.Execute a query to get the Last Update data for the row that shouldn’t change.
+2. Execute a query to get the Last Update data for the row that shouldn’t change.
 
-3.Load the package into memory.
+3. Load the package into memory.
 
-4.Execute the package.
+4. Execute the package.
 
 
 
@@ -266,9 +266,9 @@ Now that the group actions are identified, we know that each test itself will ne
 
 
 
-1.Execute one or more actions to determine the state of data after the object (in this example a package) executes.
+1. Execute one or more actions to determine the state of data after the object (in this example a package) executes.
 
-2.Run one or more assertions which use the output of the actions to determine if the assertion is true or false.
+2. Run one or more assertions which use the output of the actions to determine if the assertion is true or false.
 
 
 
@@ -314,7 +314,7 @@ Our asset list can thus be summarized as:
 
 
 
-**Summary**
+### Summary
 
 
 
@@ -336,7 +336,7 @@ To repeat the list we started with:
 
 
 
-**Sidebar: The Real World**
+### Sidebar: The Real World
 
 
 
@@ -356,7 +356,7 @@ In an optimal world, it would be nice to be able to have everything identified b
 
 
 
-**What’s Next?**
+### What’s Next?
 
 
 
