@@ -31,5 +31,4 @@ This column will list the date and time the test object being view was last run.
 take you to the execution details page for that test object. 
 
 ## Tags
-This column allows the user to quickly add tags to the test object. These are all user created, and allows for tests to quickly be filtered to find waht you are looking for. 
-To learn more about tags visit the [Tag](tags.md) help page.
+This column allows the user to quickly add tags to the test object. These are all user created, and allows for tests to quickly be filtered to find waht you are looking for.
