@@ -1,3 +1,5 @@
+![](images/_LegiTestBanner.png)
+
 # Setup Instructions
 
 Before begining installation, please review [Hardware](HardwareRequirements.md) and [Software Requirements](SoftwareRequirements.md) to verify that your environment meets the system requirements.

@@ -1,4 +1,6 @@
-﻿# Software Requirements
+﻿![](images/_LegiTestBanner.png)
+
+# Software Requirements
 
 Before installing Workbench, make sure you meet the following system requirements:
 - SQL Server Integration Services 2005, 2008, 2008 R2, 2012, 2014, 2016
