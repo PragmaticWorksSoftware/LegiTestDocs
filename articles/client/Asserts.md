@@ -20,13 +20,13 @@ The asserts are generally what determines if a test passes or fails. The data ga
 
     * [Directory Existence](DirectoryExistence.md)
 
-- [File](File.md)
+- [File](FileAsserts.md)
 
     * [File Content Comparison](FileContentComparison.md)
 
     * [File Existence](FileExistence.md)
 
-- [Miscellaneous](Miscellaneous.md)
+- [Miscellaneous](MiscellaneousAsserts.md)
 
     * [Integer Comparison](IntegerComparison.md)
 

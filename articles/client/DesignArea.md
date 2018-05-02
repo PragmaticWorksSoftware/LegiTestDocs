@@ -34,13 +34,13 @@ Looking at the tree nodes on the left - these are covered in more detail in the 
 
 - [Parameters](UsingParameters.md)
 
-- [Server Integration](IntegratingwithLegiTestServerOrL.md)
+- [Server Integration](IntegratingWithLegiTestServerOrL.md)
 
 - [System Coverage](SystemCoverage.md)
 
     * [Reports](ViewingReports.md)
 
-- [Annotation Types](AnnotationTypes.md)
+- [Annotation Types](Annotations.md)
 
 
 

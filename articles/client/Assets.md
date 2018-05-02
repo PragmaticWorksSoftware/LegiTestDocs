@@ -14,11 +14,11 @@ Assets can be defined at the project, suite, group or test level. Assets within 
 
 **Table of Contents**
 
-- [Cloud](Cloud.md)
+- [Cloud](CloudAssets.md)
 
-    * [SalesForce Connection](SalesForceConnection.md)
+    * [SalesForce Connection](SalesforceConnection.md)
 
-- [Data Managment](DataManagment.md)
+- [Data Managment](DataManagement.md)
 
     * [Comparison Manifest](ComparisonManifest.md)
 
@@ -32,7 +32,7 @@ Assets can be defined at the project, suite, group or test level. Assets within 
 
     * [Fixed Width File Reference](FixedWidthFileReference.md)
 
-    * [Grid Collection](GridCollectio.md)
+    * [Grid Collection](GridCollection.md)
 
     * [Query](Query.md)
 
@@ -42,16 +42,16 @@ Assets can be defined at the project, suite, group or test level. Assets within 
 
     * [Directory Reference](DirectoryReference.md)
 
-- [File](File.md)
+- [File](FileAssets.md)
 
     * [Text File](TextFile.md)
 
-- [SQL Server](SQLServer.md)
+- [SQL Server](SQLServerAssets.md)
 
     * [T-SQL Backup / Restore](TSQLBackupRestore.md)
 
     * [T-SQL Bulk Insert](TSQLBulkInsert.md)
 
-- [SSIS](SSIS.md)
+- [SSIS](SSISAssets.md)
 
     * [Package Reference](PackageReference.md)

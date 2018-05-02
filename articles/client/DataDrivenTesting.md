@@ -21,7 +21,7 @@ In the test tree on the left, under each test node is a node titled 'Data Driven
 
 
 
-Here, much like in the [interactive comparison wizard](interactivecomparisonwizard.md) we are selecting a connection and either entering a query or configuring the source (if using a REST connection, for example). Once we have selected our connection we click Execute to retrieve the results.
+Here, much like in the [interactive comparison wizard](InteractiveComparison.md) we are selecting a connection and either entering a query or configuring the source (if using a REST connection, for example). Once we have selected our connection we click Execute to retrieve the results.
 
 
 

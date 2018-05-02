@@ -24,7 +24,7 @@ To begin, users must configure a connection for use within the data validation w
 
 'Is Disk Based' specifies whether to store the results within a temporary file or in memory. This option is best used for larger data sets.
 
-The data set query uses the same advanced editor as the [Query Asset](QueryAsset.md). Once satisfied with the query, click "Next."
+The data set query uses the same advanced editor as the [Query Asset](Query.md). Once satisfied with the query, click "Next."
 
 
 
