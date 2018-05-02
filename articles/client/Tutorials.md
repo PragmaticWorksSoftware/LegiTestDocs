@@ -6,7 +6,7 @@
 
 **Table of Contents**
 
-- [Getting Started](GettingStarted.md)
+
 
 - [My First SSIS LegiTest](MyFirstSSISLegiTest.md)
 
