@@ -10,13 +10,13 @@ The various action elements are used to perform actions such as move, create, de
 
 **Table of Contents**
 
-* [Cloud](Cloud.md)
+* [Cloud](CloudActions.md)
 
-    * [Execute REST Query (Grid)](ExecuteQueryRESTGrid.md)
+    * [Execute REST Query (Grid)](ExecuteRESTQueryGrid.md)
 
     * [Execute REST Query (Scalar)](ExecuteRESTQueryScalar.md)
 
-    * [Execute SalesForce Query Grid](ExecuteSalesForceQueryGrid.md)
+    * [Execute SalesForce Query Grid](ExecuteSalesforceQueryGrid.md)
 
 - [Data Management](DataManagement.md)
 
@@ -34,7 +34,7 @@ The various action elements are used to perform actions such as move, create, de
 
     * [Get Grid Row Count](GetGridRowCount.md)
 
-    * [Load Delimited File](LoadDelimitedFile.md)
+    * [Load Delimited File](LoadFlatFileData.md)
 
     * [Load Grid From Asset](LoadGridFromAsset.md)
 
@@ -48,7 +48,7 @@ The various action elements are used to perform actions such as move, create, de
 
     * [Directory Move](DirectoryMove.md)
 
-- [File](.md)
+- [File](FileActions.md)
 
     * [File Copy](FileCopy.md)
 
@@ -60,7 +60,7 @@ The various action elements are used to perform actions such as move, create, de
 
     * [File Move](FileMove.md)
 
-- [Miscellaneous](Miscellaneous.md)
+- [Miscellaneous](MiscellaneousActions.md)
 
     * [Execute Process](ExecuteProcess.md)
 
@@ -74,7 +74,7 @@ The various action elements are used to perform actions such as move, create, de
 
     * [XPath Extract](XPathExtract.md)
 
-- [SSAS](SSAS.md)
+- [SSAS](SSASActions.md)
 
     * [Process Cube](ProcessCube.md)
 
@@ -82,7 +82,7 @@ The various action elements are used to perform actions such as move, create, de
 
     * [Process Dimension](ProcessDimension.md)
 
-- [SSIS](SSIS.md)
+- [SSIS](SSISActions.md)
 
     * [Execute Package](ExecutePackage.md)
 
@@ -94,6 +94,6 @@ The various action elements are used to perform actions such as move, create, de
 
     * [Set Properties](SetProperties.md)
 
-- [SSRS](SSRS.md)
+- [SSRS](SSRSActions.md)
 
     * [Execute Report](ExecuteReport.md)

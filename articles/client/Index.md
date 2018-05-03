@@ -16,7 +16,7 @@ LegiTest is a Visual Studio extension that provides a set of functionality tailo
 
 - [Release Notes](ReleaseNotes.md)
 
-- [Setup Instruction](SetupInstruction.md)
+- [Setup Instruction](SetupInstructions.md)
 
     * [Hardware Requirements](HardwareRequirements.md)
 

@@ -32,6 +32,6 @@ Data Management actions are responsible for gathering and / or manipulating data
 
 - [Get Grid Row Count](GetGridRowCount.md)
 
-- [Load Delimited File](LoadDelimitedFile.md)
+- [Load Delimited File](LoadFlatFileData.md)
 
 - [Load Grid From Asset](LoadGridFromAsset.md)
