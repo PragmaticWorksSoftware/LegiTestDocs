@@ -26,10 +26,16 @@ The recipe second page is specific to the recipe. This is an example of the 'Uni
 
 Recipes
 
+- [Data Profile Validation](DataProfileValidationRecipe.md)
+
+- [Dimension Validation](DimensionValidationRecipe.md)
+
 - [Range Check](RangeCheck1.md)
 
 - [Row Count Comparison](RowCountComparison.md)
 
 - [Standard Deviation](StandardDeviation.md)
+
+- [Text Format Validation](TextFormatValidationRecipe.md)
 
 - [Uniqueness](Uniqueness.md)
